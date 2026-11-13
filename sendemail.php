@@ -37,10 +37,10 @@ function sendMail($send_to, $otp, $name) {
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Host = "smtp.gmail.com";
         $mail->Port = 587;
-        $mail->Username = 'smc13217@gmail.com'; // SMTP username
-        $mail->Password = 'xzyj sjaq ovij kdhw'; // SMTP password
+        $mail->Username = ''; // SMTP username
+        $mail->Password = ''; // SMTP password
 
-        $mail->setFrom("smc13217@gmail.com", "SMC");
+        $mail->setFrom("", "SMC");
         $mail->addAddress($send_to);
         $mail->Subject = "Account Activation";
         $mail->isHTML(true);
