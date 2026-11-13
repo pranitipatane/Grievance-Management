@@ -2,6 +2,14 @@
 
 A web-based **Grievance Management System** developed using PHP, HTML, CSS, and MySQL. The system provides a platform for citizens to submit complaints, upload supporting documents or images, and track grievance status, while administrators can manage and resolve complaints efficiently.
 
+## 📄 Research Paper
+
+A research paper based on the **Grievance Management System** has also been prepared and uploaded to the project repository.
+
+The research paper presents the project concept, objectives, implementation approach, system functionality, and its role in improving the grievance submission and management process.
+
+Research Paper: https://www.irjmets.com/paperdetail.php?paperId=9a8fbf050c9e7e4523b023663022f79f
+
 ## 📌 Project Details
 
 - **Project Name:** Grievance Management System
